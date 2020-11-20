@@ -1,6 +1,6 @@
 # 2d_transpose_program
 
-# Using Zip Function 
+## Using Zip Function 
 
 theArray = [['a','b','c'],['d','e','f'],['g','h','i']]
 theArray = [list(i) for i in zip(*theArray)]
